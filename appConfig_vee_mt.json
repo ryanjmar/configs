@@ -1,6 +1,6 @@
 {
-    "API_URL": "https://api.engstd.xyz/",
-    "SOCKET_URL": "wss:///sock.engstd.xyz",
+    "API_URL": "https://api.engstd.xyz2/",
+    "SOCKET_URL": "wss:///sock.engstd.xyz2",
     "USER_TOKEN": "user_token",
     "LOGIN_IFRAME": false,
     "URL_TOKEN": "token",
