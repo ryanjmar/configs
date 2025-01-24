@@ -1,10 +1,13 @@
 {
-    "API_URL":"aHV2c3c/KShpeWMle35le35kYSs6e3NjN28oNA==",
-    "SOCKET_URL":"d3JxOSsqcXRvOTsle35le35kYSs6e3Nj",
-    "IPMaster88":"d3JxOSsqa2Z7fW95Inp9ZGR/Z2AsO3hybDZsKTM=",
-    "IPMaster88NY": "d3JxOSsqa2Z7fW95Inp9ZGR/Z2AsO3hybDZufmgyMTA3Kw==",
-    "USER_TOKEN":"user_token",
-    "IS_DECODE": true,
-    "IS_PRODUCTION":true,
-    "FISH_CLIENT_TYPE":2
+    "API_URL": "https://api.engstd.xyz/",//"https://api.staging.enostd.gay/",
+    "SOCKET_URL": "wss:///sock.engstd.xyz",
+    "USER_TOKEN": "user_token",
+    "LOGIN_IFRAME": false,
+    "URL_TOKEN": 'token',
+    "URL_CODE": 'code',
+    "LOBBY_SCENE_NAME": "scene_lobby",
+    "LOGIN_SCENE_NAME": "login-staging-test",
+    "IPMaster1": "wss://staging.fish.enostd.gay/lobby/",
+    "IPMaster1977": "wss://f3master.engstd.xyz/lobby-1977/",
+    "IPMaster88": "wss://staging.fish.enostd.gay/lobby-1993/"
 }
