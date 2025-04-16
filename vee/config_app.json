@@ -1,0 +1,9 @@
+{
+    "host_domain": "https://cfg.vtnhata.com/",
+    "api_domain": "https://api.vtnhata.com/",
+    "rs_domain": "https://gthai.vtnhata.com/native_385/",
+    "sport_domain": "",
+    "appName": "gthai",
+    "brand": "vee.win",
+    "test": 10000
+}
