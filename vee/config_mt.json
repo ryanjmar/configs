@@ -8,6 +8,6 @@
     "LOBBY_SCENE_NAME": "scene_lobby",
     "LOGIN_SCENE_NAME": "login-staging-test",
     "IPMaster1": "wss://staging.fish.enostd.gay/lobby/",
-    "IPMaster1977": "wss://f3master.engstd.xyz/lobby-1977/",
-    "IPMaster88": "wss://fm.mt-gth-sys.com/"
+    "IPMaster1977": "wss://fm.mt-gth-sys.com/",
+    "IPMaster88": "wss://staging.fish.enostd.gay/lobby-1993/"
 }
