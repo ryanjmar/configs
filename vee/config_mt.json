@@ -1,6 +1,6 @@
 {
-    "API_URL": "https://api-ex2.engstd.xyz/",
-    "SOCKET_URL": "wss://sock-ex2.engstd.xyz",
+    "API_URL": "https://api.mt-gth-sys.com/v2/",
+    "SOCKET_URL": "wss://ws01.mt-gth-sys.com",
     "USER_TOKEN": "user_token",
     "LOGIN_IFRAME": false,
     "URL_TOKEN": "token",
@@ -9,5 +9,5 @@
     "LOGIN_SCENE_NAME": "login-staging-test",
     "IPMaster1": "wss://staging.fish.enostd.gay/lobby/",
     "IPMaster1977": "wss://f3master.engstd.xyz/lobby-1977/",
-    "IPMaster88": "wss://staging.fish.enostd.gay/lobby-1993/"
+    "IPMaster88": "wss://fm.mt-gth-sys.com/"
 }
