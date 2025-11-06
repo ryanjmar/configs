@@ -1,0 +1,10 @@
+{
+    "host_domain": "https://cfg.brrriab2z.net/",
+    "api_domain": "https://api.vtnhata.com/",
+    "rs_domain": "https://firstresth-app.com/pre-release/",
+    "trackingURL":"https://api.brrriab2z.net/et/v1/event-tracking",
+    "sport_domain": "",
+    "appName": "gthai",
+    "brand": "vee.win",
+    "test": 10000
+}
