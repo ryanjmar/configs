@@ -1,12 +1,1 @@
-{
-    "api_domain": "https://api.brrriab2z.net/ca/res",
-    "rs_domain": "https://firstresth-app.com/",
-    "appName": "gthai",
-    "brand": "vee.win",
-    "configKey": "VEE_CONFIG",
-    "xxIdx": 2,
-    "timeOutKey": 2000,
-    "dtTimeOutKey": 100,
-    "iosBundleFolder": "ios",
-    "androidBundleFolder": "android"
-}
+ewogICAgImFwaV9kb21haW4iOiAiaHR0cHM6Ly9hcGkuYnJycmlhYjJ6Lm5ldC9jYS9yZXMiLAogICAgInJzX2RvbWFpbiI6ICJodHRwczovL2ZpcnN0cmVzdGgtYXBwLmNvbS8iLAogICAgImFwcE5hbWUiOiAiZ3RoYWkiLAogICAgImJyYW5kIjogInZlZS53aW4iLAogICAgImNvbmZpZ0tleSI6ICJWRUVfQ09ORklHIiwKICAgICJ4eElkeCI6IDIsCiAgICAidGltZU91dEtleSI6IDIwMDAsCiAgICAiZHRUaW1lT3V0S2V5IjogMTAwLAogICAgImlvc0J1bmRsZUZvbGRlciI6ICJpb3MiLAogICAgImFuZHJvaWRCdW5kbGVGb2xkZXIiOiAiYW5kcm9pZCIKfQ==
