@@ -1,12 +1,1 @@
-{
-    "api_domain": "https://raw.githubusercontent.com/ryanjmar/configs/refs/heads/main/master/config_game.vee.th.json",
-    "rs_domain": "https://firstresth-app.com/",
-    "appName": "gthai",
-    "brand": "vee.win",
-    "configKey": "VEE_CONFIG",
-    "xxIdx": 2,
-    "timeOutKey": 2000,
-    "dtTimeOutKey": 100,
-    "iosBundleFolder": "ios",
-    "androidBundleFolder": "android"
-}
+ewogICAgImFwaV9kb21haW4iOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3J5YW5qbWFyL2NvbmZpZ3MvcmVmcy9oZWFkcy9tYWluL21hc3Rlci9jb25maWdfZ2FtZS52ZWUudGguanNvbiIsCiAgICAicnNfZG9tYWluIjogImh0dHBzOi8vZmlyc3RyZXN0aC1hcHAuY29tLyIsCiAgICAiYXBwTmFtZSI6ICJndGhhaSIsCiAgICAiYnJhbmQiOiAidmVlLndpbiIsCiAgICAiY29uZmlnS2V5IjogIlZFRV9DT05GSUciLAogICAgInh4SWR4IjogMiwKICAgICJ0aW1lT3V0S2V5IjogMjAwMCwKICAgICJkdFRpbWVPdXRLZXkiOiAxMDAsCiAgICAiaW9zQnVuZGxlRm9sZGVyIjogImlvcyIsCiAgICAiYW5kcm9pZEJ1bmRsZUZvbGRlciI6ICJhbmRyb2lkIgp9
