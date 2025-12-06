@@ -1,0 +1,12 @@
+{
+    "api_domain": "https://raw.githubusercontent.com/ryanjmar/configs/refs/heads/main/master/config_game.vee.th.json",
+    "rs_domain": "https://firstresth-app.com/",
+    "appName": "gthai",
+    "brand": "vee.win",
+    "configKey": "VEE_CONFIG",
+    "xxIdx": 2,
+    "timeOutKey": 2000,
+    "dtTimeOutKey": 100,
+    "iosBundleFolder": "ios",
+    "androidBundleFolder": "android"
+}
